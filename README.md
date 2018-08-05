@@ -17,3 +17,6 @@ User      CLONE_NEWUSER   用户和用户组
 
 # Docker Registry v2 authentication
 > https://github.com/docker/distribution/blob/master/docs/spec/auth/token.md
+
+# Notary
+> https://github.com/theupdateframework/notary
