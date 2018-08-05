@@ -32,6 +32,14 @@ Auditing: All the operations to the repositories are tracked.
 RESTful API: RESTful APIs for most administrative operations, easy to integrate with external systems.
 Easy deployment: Provide both an online and offline installer.`
 
+相关文章：
+  https://mp.weixin.qq.com/s/2vXrfkzpEK032dnPqNPtkQ
+  https://mp.weixin.qq.com/s/4VRcRPXHhoaLbCtzRR3IDQ
+  https://mp.weixin.qq.com/s/4VRcRPXHhoaLbCtzRR3IDQ
+  https://mp.weixin.qq.com/s/8o8YMRjNpwsBjyiQR7PF3A
+  https://mp.weixin.qq.com/s/tlk-EDA82cf5BHT2tT5L-w
+  https://mp.weixin.qq.com/s/Tj7XGo023h3zXOpxDtkNMQ
+
 # Notary
 > https://github.com/theupdateframework/notary
 可信容器映像服务：Notary 是云原生计算基金会 CNCF (Cloud Native Computing Foundation) 的官方项目，为容器映像提供数字签名保护，以防止对于容器映像的恶意篡改。该功能打开之后，只有经过数字签名的映像才能被部署到 PKS 集群里去运行。
