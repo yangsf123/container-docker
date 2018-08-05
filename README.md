@@ -10,3 +10,10 @@ PID       CLONE_PID       进程编号
 Network   CLONE_NEWNET    网络设备、网络栈、端口
 Mount     CLONE_NEWNS     挂载点（文件系统）
 User      CLONE_NEWUSER   用户和用户组
+
+
+
+
+
+# Docker Registry v2 authentication
+> https://github.com/docker/distribution/blob/master/docs/spec/auth/token.md
